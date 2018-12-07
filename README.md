@@ -10,7 +10,7 @@ This project is multitouch button support for React Native with easily implement
 # Installation 1 - Using this project
 Download all files in this repository, unzip to a folder, and run npm install command in the folder. Then, you can use multitouch buttons.
 # Installation 2 - Implementing to an existing project
-Download only multi-touch-button.js file, import to file that you want to use multitouch buttons, then extend your registered or navigated React component class. I don't recommend to add this project to an existing project, because this project still is developing and may not work as expected. 
+Download only multi-touch-button.js file, import to file that you want to use multitouch buttons, then extend your registered or navigated React component class. I don't recommend to add this project to an existing project, because this project is still in development and may not work as expected. 
 
 ![Implementing to an existing project](https://i.imgur.com/LtH4DOb.png)<br>
 #Available Props for MultiView
